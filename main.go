@@ -2,7 +2,7 @@ package main
 
 import (
 	"net/http"
-	"example.com/hello-world/function"
+	"github.com/mehfius/convert_pdf_to_image/function"
 )
 
 func main() {
